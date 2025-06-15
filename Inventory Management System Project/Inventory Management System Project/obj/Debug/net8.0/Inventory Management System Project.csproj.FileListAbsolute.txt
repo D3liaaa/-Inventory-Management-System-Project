@@ -1,0 +1,15 @@
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\bin\Debug\net8.0\Inventory Management System Project.exe
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\bin\Debug\net8.0\Inventory Management System Project.deps.json
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\bin\Debug\net8.0\Inventory Management System Project.runtimeconfig.json
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\bin\Debug\net8.0\Inventory Management System Project.dll
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\bin\Debug\net8.0\Inventory Management System Project.pdb
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.AssemblyInfoInputs.cache
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.AssemblyInfo.cs
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.csproj.CoreCompileInputs.cache
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.sourcelink.json
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.dll
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\refint\Inventory Management System Project.dll
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.pdb
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\Inventory Management System Project.genruntimeconfig.cache
+D:\My-Github\OOP projects\-Inventory-Management-System-Project\Inventory Management System Project\Inventory Management System Project\obj\Debug\net8.0\ref\Inventory Management System Project.dll

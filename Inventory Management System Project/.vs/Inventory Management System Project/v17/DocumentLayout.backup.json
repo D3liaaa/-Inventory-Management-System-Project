@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My-Github\\OOP projects\\-Inventory-Management-System-Project\\Inventory Management System Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B7D0C4-86B7-4182-8A57-C652573236E6}|Inventory Management System Project\\Inventory Management System Project.csproj|d:\\my-github\\oop projects\\-inventory-management-system-project\\inventory management system project\\inventory management system project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B7D0C4-86B7-4182-8A57-C652573236E6}|Inventory Management System Project\\Inventory Management System Project.csproj|solutionrelative:inventory management system project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B7D0C4-86B7-4182-8A57-C652573236E6}|Inventory Management System Project\\Inventory Management System Project.csproj|d:\\my-github\\oop projects\\-inventory-management-system-project\\inventory management system project\\inventory management system project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B7D0C4-86B7-4182-8A57-C652573236E6}|Inventory Management System Project\\Inventory Management System Project.csproj|solutionrelative:inventory management system project\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B7D0C4-86B7-4182-8A57-C652573236E6}|Inventory Management System Project\\Inventory Management System Project.csproj|d:\\my-github\\oop projects\\-inventory-management-system-project\\inventory management system project\\inventory management system project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B7D0C4-86B7-4182-8A57-C652573236E6}|Inventory Management System Project\\Inventory Management System Project.csproj|solutionrelative:inventory management system project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\My-Github\\OOP projects\\-Inventory-Management-System-Project\\Inventory Management System Project\\Inventory Management System Project\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory Management System Project\\Inventory.cs",
+              "ToolTip": "D:\\My-Github\\OOP projects\\-Inventory-Management-System-Project\\Inventory Management System Project\\Inventory Management System Project\\Inventory.cs",
+              "RelativeToolTip": "Inventory Management System Project\\Inventory.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAEwEcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:32:31.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\My-Github\\OOP projects\\-Inventory-Management-System-Project\\Inventory Management System Project\\Inventory Management System Project\\Product.cs",
+              "RelativeDocumentMoniker": "Inventory Management System Project\\Product.cs",
+              "ToolTip": "D:\\My-Github\\OOP projects\\-Inventory-Management-System-Project\\Inventory Management System Project\\Inventory Management System Project\\Product.cs",
+              "RelativeToolTip": "Inventory Management System Project\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:28:55.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My-Github\\OOP projects\\-Inventory-Management-System-Project\\Inventory Management System Project\\Inventory Management System Project\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory Management System Project\\Program.cs",
+              "ToolTip": "D:\\My-Github\\OOP projects\\-Inventory-Management-System-Project\\Inventory Management System Project\\Inventory Management System Project\\Program.cs*",
+              "RelativeToolTip": "Inventory Management System Project\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:28:17.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
